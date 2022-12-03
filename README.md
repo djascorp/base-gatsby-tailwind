@@ -4,18 +4,18 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal TypeScript starter
+  Starter Project in Gatsby and tailwind CSS
 </h1>
 
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
+1.  **What is gatsby.**
 
-    Use the Gatsby CLI to create a new site, specifying the minimal TypeScript starter.
+    
 
     ```shell
-    # create a new Gatsby site using the minimal TypeScript starter
-    npm init gatsby
+    # create a new Gatsby site using Tailwind
+    git clone https://github.com/djascorp/base-gatsby-tailwind.git
     ```
 
 2.  **Start developing.**
@@ -23,7 +23,9 @@
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd my-gatsby-site/
+    rename base-gatsby-tailwind project-name
+    cd project-name/
+    npm install
     npm run develop
     ```
 
